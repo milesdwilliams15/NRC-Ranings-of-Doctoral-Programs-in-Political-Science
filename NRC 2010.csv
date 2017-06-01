@@ -1,0 +1,105 @@
+School,S_Hi,S_Low,Research_Hi,Research_Low,Students_Hi,Students_Low,Diversity_Hi,Diversity_Low,R_Hi,R_Low
+American U.,85,94,86,100,87,98,3,14,49,82
+Arizona State U.,48,67,62,83,15,57,28,52,48,78
+Binghamtonton U. (SUNY),5,20,3,15,8,48,18,40,23,49
+Boston College,65,86,70,93,42,75,89,101,47,92
+Boston U.,59,81,61,80,85,104,6,24,44,81
+Brandeis U.,73,89,84,103,30,68,36,63,56,90
+Brown U.,33,51,29,57,66,87,8,25,41,71
+Catholic U. of America,100,104,88,103,85,98,91,101,97,104
+City U. of New York Graduate Center,87,97,64,83,101,104,11,32,46,79
+Claremont Graduate U.,98,103,85,100,99,104,32,54,68,95
+Columbia U.,6,17,5,16,68,89,26,50,2,5
+Cornell U.,25,37,26,43,20,55,7,25,12,27
+Duke U.,6,20,6,17,13,49,74,90,6,17
+Emory U.,11,32,11,29,6,46,56,83,18,38
+Florida International U.,78,92,78,98,51,76,3,10,98,104
+Florida State U.,16,37,17,42,1,13,53,77,43,80
+George Washington U.,7,22,3,14,57,83,80,97,17,35
+Georgetown U.,62,77,56,71,82,91,75,94,23,44
+Georgia State U.,52,72,52,69,27,69,3,14,71,95
+Harvard U.,1,2,1,4,6,33,59,81,1,3
+Howard U.,70,86,92,103,95,103,1,1,43,102
+Indiana U. at Bloomington,11,28,19,38,2,30,42,66,23,49
+Johns Hopkins U.,66,82,77,95,22,55,12,33,47,78
+Louisiana State U. at Baton Rouge,45,62,43,63,65,93,84,97,41,76
+Loyola U. Chicago,97,104,75,99,86,100,92,104,88,104
+Massachusetts Institute of Technology,13,36,4,25,66,85,49,75,11,30
+Michigan State U.,15,29,21,37,8,36,50,74,27,46
+New York U.,3,7,2,8,19,58,9,30,5,12
+Northern Illinois U.,88,98,92,103,38,68,45,71,81,96
+Northwestern U.,35,49,28,50,53,79,17,40,30,55
+Ohio State U. Main Campus,19,34,21,41,8,41,48,74,7,20
+Old Dominion U.,93,102,78,98,96,104,35,59,77,95
+Pennsylvania State U.,3,7,6,19,1,20,7,27,16,33
+Princeton U.,7,16,13,21,6,33,41,70,7,16
+Purdue U. Main Campus,39,53,47,64,24,61,4,16,42,71
+Rice U.,4,15,5,16,1,27,10,30,22,44
+Rutgers U. at New Brunswick,47,67,53,72,37,72,36,63,23,48
+Southern Illinois U. at Carbondale,92,101,70,90,61,80,74,93,100,105
+Stanford U.,1,2,1,3,1,13,43,69,2,9
+State U. of New York at Albany,93,101,86,102,87,98,42,67,64,89
+State U. of New York at Stony Brook,14,37,14,44,4,29,50,79,21,42
+Syracuse U. Main Campus,64,83,71,92,42,72,10,32,38,70
+Temple U.,53,74,32,52,66,89,63,86,63,95
+Texas A&M U.,13,30,12,25,5,40,39,61,22,46
+Texas Tech U.,73,92,69,96,15,51,61,83,88,100
+U. at Buffalo (SUNY),69,92,45,79,87,98,48,77,49,83
+U. of Alabama,64,85,42,58,31,78,56,81,88,102
+U. of Arizona,20,36,26,47,1,19,31,57,30,55
+U. of California at Berkeley,8,23,9,22,59,81,87,99,1,3
+U. of California at Davis,7,26,6,23,5,31,88,100,20,35
+U. of California at Irvine,36,50,31,50,50,77,40,66,30,50
+U. of California at Los Angeles,31,44,32,50,51,79,40,66,8,17
+U. of California at Riverside,27,45,11,35,29,64,71,91,47,79
+U. of California at San Diego,5,18,5,17,23,56,84,98,6,20
+U. of California at Santa Barbara,65,86,55,80,83,97,35,62,39,73
+U. of Chicago,28,44,29,54,60,83,11,34,8,19
+U. of Cincinnati Main Campus,81,95,80,97,47,83,20,46,62,96
+U. of Colorado at Boulder,37,54,40,61,18,55,56,81,37,66
+U. of Connecticut,53,73,61,78,41,71,57,80,35,69
+U. of Dallas,105,105,105,105,98,104,100,104,103,105
+U. of Delaware,60,81,78,97,4,32,4,18,90,101
+U. of Florida,54,76,50,71,32,68,59,82,45,77
+U. of Georgia,78,91,58,74,79,95,96,103,52,87
+U. of Hawaii-Manoa,89,98,96,104,84,96,19,43,36,66
+U. of Houston main campus,93,100,98,104,23,57,94,102,67,96
+U. of Illinois at Chicago,81,98,77,104,40,76,35,60,62,90
+U. of Illinois at Urbana-Champaign,10,26,16,31,12,46,20,42,21,39
+U. of Iowa,46,61,24,40,79,94,80,95,26,48
+U. of Kansas,51,70,63,76,1,31,47,77,71,95
+U. of Kentucky,34,47,25,43,24,59,102,105,48,88
+U. of Maryland at College Park,33,46,21,40,66,86,37,60,9,22
+U. of Massachusetts at Amherst,56,74,66,79,30,64,18,39,44,74
+U. of Miami,55,78,75,98,75,95,2,3,35,71
+U. of Michigan at Ann Arbor,3,6,2,9,29,61,15,38,3,7
+U. of Minnesota-Twin Cities,25,38,22,39,30,65,22,48,15,29
+U. of Mississippi,46,81,45,77,1,56,72,93,64,100
+U. of Missouri at Columbia,28,72,17,78,48,79,21,43,39,74
+U. of Missouri at Saint Louis,84,97,74,92,87,99,2,9,77,99
+U. of Nebraska at Lincoln,46,63,54,71,10,43,55,83,67,94
+U. of Nevada at Reno,99,104,97,104,78,104,98,105,92,105
+U. of New Mexico Main Campus,34,53,34,64,5,47,9,28,65,93
+U. of North Carolina at Chapel Hill,17,32,22,39,7,43,80,96,8,18
+U. of North Texas,73,87,44,55,93,103,75,93,58,86
+U. of Notre Dame,49,66,62,81,24,59,12,33,41,66
+U. of Oklahoma Norman Campus,79,91,78,94,54,81,62,83,68,94
+U. of Oregon,44,61,43,63,9,39,62,84,62,87
+U. of Pennsylvania,39,61,24,52,49,81,22,48,29,66
+U. of Pittsburgh Main Campus,14,34,25,58,12,45,3,12,10,38
+U. of Rochester,21,38,27,48,1,23,13,34,39,73
+U. of South Carolina at Columbia,53,71,51,70,64,82,40,67,43,68
+U. of Southern California,26,40,25,46,32,63,8,25,12,27
+U. of Tennessee,67,85,78,93,17,71,72,92,70,98
+U. of Texas at Austin,41,54,47,62,20,56,90,102,23,43
+U. of Utah,96,102,82,97,104,105,77,95,52,85
+U. of Virginia,61,78,57,72,59,84,74,91,26,48
+U. of Washington,16,33,14,31,31,63,42,69,17,34
+U. of Wisconsin at Madison,19,31,23,37,7,35,70,92,10,22
+U. of Wisconsin at Milwaukee,52,76,43,66,1,13,100,105,94,103
+Vanderbilt U.,32,51,35,65,9,47,11,34,38,68
+Washington State U.,43,64,38,62,60,84,29,54,56,89
+Washington U. in St. Louis,6,18,5,15,8,47,58,81,17,36
+Wayne State U.,65,87,71,91,67,90,23,46,44,83
+Western Michigan U.,80,93,92,102,32,66,7,26,82,100
+Yale U.,6,17,8,20,19,52,21,43,4,8
