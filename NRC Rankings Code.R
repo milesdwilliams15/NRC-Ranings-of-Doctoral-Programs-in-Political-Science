@@ -4,7 +4,7 @@
 # ------------------------------------------------------------
 
 # Open CSV file
-path<-file.path("C:","Users","Miles","Documents","R","NRC Rankings","NRC 2010.csv")
+path<-file.path(...,"NRC 2010.csv")
 nrc<-read.csv(path)
 nrc$School<-as.character(nrc$School)
 
@@ -30,7 +30,6 @@ abline(h=c(25,50,75,100),lty=2,col="darkgrey")
 points(school,estimate,pch=19)
 points(school,hi,pch="-")
 points(school,lo,pch="-")
-segments(x0=school,y0=hi,y1=lo)
 par(yaxt="s")
 axis(2,at=seq(0,110,10),las=2)
 
@@ -56,7 +55,6 @@ abline(h=c(25,50,75,100),lty=2,col="darkgrey")
 points(school,estimate,pch=19)
 points(school,hi,pch="-")
 points(school,lo,pch="-")
-segments(x0=school,y0=hi,y1=lo)
 par(yaxt="s")
 axis(2,at=seq(0,110,10),las=2)
 
@@ -82,7 +80,6 @@ abline(h=c(25,50,75,100),lty=2,col="darkgrey")
 points(school,estimate,pch=19)
 points(school,hi,pch="-")
 points(school,lo,pch="-")
-segments(x0=school,y0=hi,y1=lo)
 par(yaxt="s")
 axis(2,at=seq(0,110,10),las=2)
 
@@ -134,7 +131,6 @@ abline(h=c(25,50,75,100),lty=2,col="darkgrey")
 points(school,estimate,pch=19)
 points(school,hi,pch="-")
 points(school,lo,pch="-")
-segments(x0=school,y0=hi,y1=lo)
 par(yaxt="s")
 axis(2,at=seq(0,110,10),las=2)
 
